@@ -1,0 +1,1 @@
+searchtext = ["Cohen's Fashion Optical", 'Cohens Fashion Optical', 'Cohens Optical', "Cohen's Optical"]
